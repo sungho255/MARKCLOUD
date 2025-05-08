@@ -4,4 +4,4 @@ __pycache__/
 *.pyo
 .vscode
 /.env
-마크클라우드_백엔드_개발자_과제_pdf
+*.pdf
